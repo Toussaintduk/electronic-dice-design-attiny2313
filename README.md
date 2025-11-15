@@ -3,7 +3,7 @@
 **University of Rwanda – Electrical Power Engineering**  
 **Module:** TECHSKILLS – Y3 Electrical Power Engineering  
 **Date:** 20 March 2025  
-**Lecturer:** Prof. Nkurikiyezu Kizito  
+**Lecturer:** Prof. Nkurikiyeyezu Kizito  
 
 ---
 
